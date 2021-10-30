@@ -1,5 +1,5 @@
 # chagents
-[chess agents](https://github.com/microsoft/pyright/blob/main/docs/configuration.md#execution-environment-options)
+[chess agents](https://github.com/ikamensh/chagents/blob/master/README.md#bla1)
 
 
 ## Bla1
